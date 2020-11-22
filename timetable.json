@@ -1,0 +1,1282 @@
+[{
+        "id": 377,
+        "teacher": "STA170509",
+        "names": "Teacher 2",
+        "subject": "SUB170534",
+        "subname": "Subject 2",
+        "subcode": null,
+        "klass": "KLA170506",
+        "kname": "Form A1",
+        "credits": 1
+    }, {
+        "id": 378,
+        "teacher": "STA170533",
+        "names": "Teacher 3",
+        "subject": "SUB170507",
+        "subname": "Subject 3",
+        "subcode": null,
+        "klass": "KLA170506",
+        "kname": "Form A1",
+        "credits": 1
+    }, {
+        "id": 379,
+        "teacher": "STA170517",
+        "names": "Teacher 4",
+        "subject": "SUB170531",
+        "subname": "Subject 4",
+        "subcode": null,
+        "klass": "KLA170506",
+        "kname": "Form A1",
+        "credits": 1
+    }, {
+        "id": 380,
+        "teacher": "STA170540",
+        "names": "Teacher 5",
+        "subject": "SUB170510",
+        "subname": "Subject 5",
+        "subcode": null,
+        "klass": "KLA170506",
+        "kname": "Form A1",
+        "credits": 1
+    }, {
+        "id": 381,
+        "teacher": "STA170518",
+        "names": "Teacher 6",
+        "subject": "SUB170536",
+        "subname": "Subject 6",
+        "subcode": null,
+        "klass": "KLA170506",
+        "kname": "Form A1",
+        "credits": 1
+    }, {
+        "id": 382,
+        "teacher": "STA170526",
+        "names": "Teacher 7",
+        "subject": "SUB170512",
+        "subname": "Subject 7",
+        "subcode": null,
+        "klass": "KLA170506",
+        "kname": "Form A1",
+        "credits": 1
+    }, {
+        "id": 383,
+        "teacher": "STA170526",
+        "names": "Teacher 7",
+        "subject": "SUB170535",
+        "subname": "Subject 8",
+        "subcode": null,
+        "klass": "KLA170506",
+        "kname": "Form A1",
+        "credits": 1
+    }, {
+        "id": 384,
+        "teacher": "STA170515",
+        "names": "Teacher 8",
+        "subject": "SUB170506",
+        "subname": "Subject 9",
+        "subcode": null,
+        "klass": "KLA170510",
+        "kname": "Form B1",
+        "credits": 1
+    }, {
+        "id": 385,
+        "teacher": "STA170532",
+        "names": "Teacher 9",
+        "subject": "SUB170523",
+        "subname": "Subject 10",
+        "subcode": null,
+        "klass": "KLA170510",
+        "kname": "Form B1",
+        "credits": 1
+    }, {
+        "id": 386,
+        "teacher": "STA170531",
+        "names": "Teacher 10",
+        "subject": "SUB170507",
+        "subname": "Subject 3",
+        "subcode": null,
+        "klass": "KLA170510",
+        "kname": "Form B1",
+        "credits": 1
+    }, {
+        "id": 387,
+        "teacher": "STA170508",
+        "names": "Teacher 11",
+        "subject": "SUB170508",
+        "subname": "Subject 11",
+        "subcode": null,
+        "klass": "KLA170510",
+        "kname": "Form B1",
+        "credits": 1
+    }, {
+        "id": 388,
+        "teacher": "STA170527",
+        "names": "Teacher 12",
+        "subject": "SUB170509",
+        "subname": "Subject 12",
+        "subcode": null,
+        "klass": "KLA170510",
+        "kname": "Form B1",
+        "credits": 1
+    }, {
+        "id": 389,
+        "teacher": "STA170524",
+        "names": "Teacher 13",
+        "subject": "SUB170531",
+        "subname": "Subject 4",
+        "subcode": null,
+        "klass": "KLA170510",
+        "kname": "Form B1",
+        "credits": 1
+    }, {
+        "id": 390,
+        "teacher": "STA170519",
+        "names": "Teacher 14",
+        "subject": "SUB170510",
+        "subname": "Subject 5",
+        "subcode": null,
+        "klass": "KLA170510",
+        "kname": "Form B1",
+        "credits": 1
+    }, {
+        "id": 391,
+        "teacher": "STA170506",
+        "names": "Teacher 15",
+        "subject": "SUB170511",
+        "subname": "Subject 13",
+        "subcode": null,
+        "klass": "KLA170510",
+        "kname": "Form B1",
+        "credits": 1
+    }, {
+        "id": 392,
+        "teacher": "STA170534",
+        "names": "Teacher 16",
+        "subject": "SUB170512",
+        "subname": "Subject 7",
+        "subcode": null,
+        "klass": "KLA170510",
+        "kname": "Form B1",
+        "credits": 1
+    }, {
+        "id": 393,
+        "teacher": "STA170539",
+        "names": "Teacher 17",
+        "subject": "SUB170513",
+        "subname": "Subject 14",
+        "subcode": null,
+        "klass": "KLA170510",
+        "kname": "Form B1",
+        "credits": 1
+    }, {
+        "id": 394,
+        "teacher": "STA170511",
+        "names": "Teacher 18",
+        "subject": "SUB170524",
+        "subname": "Subject 15",
+        "subcode": null,
+        "klass": "KLA170515",
+        "kname": "Form D1",
+        "credits": 1
+    }, {
+        "id": 395,
+        "teacher": "STA170523",
+        "names": "Teacher 19",
+        "subject": "SUB170515",
+        "subname": "Subject 16",
+        "subcode": null,
+        "klass": "KLA170516",
+        "kname": "Form D2",
+        "credits": 1
+    }, {
+        "id": 396,
+        "teacher": "STA170532",
+        "names": "Teacher 9",
+        "subject": "SUB170533",
+        "subname": "Subject 17",
+        "subcode": null,
+        "klass": "KLA170515",
+        "kname": "Form D1",
+        "credits": 1
+    }, {
+        "id": 397,
+        "teacher": "STA170516",
+        "names": "Teacher 20",
+        "subject": "SUB170517",
+        "subname": "Subject 18",
+        "subcode": null,
+        "klass": "KLA170515",
+        "kname": "Form D1",
+        "credits": 1
+    }, {
+        "id": 398,
+        "teacher": "STA170528",
+        "names": "Teacher 21",
+        "subject": "SUB170518",
+        "subname": "Subject 19",
+        "subcode": null,
+        "klass": "KLA170515",
+        "kname": "Form D1",
+        "credits": 1
+    }, {
+        "id": 399,
+        "teacher": "STA170534",
+        "names": "Teacher 16",
+        "subject": "SUB170519",
+        "subname": "Subject 20",
+        "subcode": null,
+        "klass": "KLA170515",
+        "kname": "Form D1",
+        "credits": 1
+    }, {
+        "id": 400,
+        "teacher": "STA170519",
+        "names": "Teacher 14",
+        "subject": "SUB170520",
+        "subname": "Subject 21",
+        "subcode": null,
+        "klass": "KLA170515",
+        "kname": "Form D1",
+        "credits": 1
+    }, {
+        "id": 401,
+        "teacher": "STA170518",
+        "names": "Teacher 6",
+        "subject": "SUB170521",
+        "subname": "Subject 22",
+        "subcode": null,
+        "klass": "KLA170515",
+        "kname": "Form D1",
+        "credits": 1
+    }, {
+        "id": 402,
+        "teacher": "STA170510",
+        "names": "Teacher 22",
+        "subject": "SUB170522",
+        "subname": "Subject 23",
+        "subcode": null,
+        "klass": "KLA170515",
+        "kname": "Form D1",
+        "credits": 1
+    }, {
+        "id": 403,
+        "teacher": "STA170509",
+        "names": "Teacher 2",
+        "subject": "SUB170534",
+        "subname": "Subject 2",
+        "subcode": null,
+        "klass": "KLA170507",
+        "kname": "Form A2",
+        "credits": 1
+    }, {
+        "id": 404,
+        "teacher": "STA170533",
+        "names": "Teacher 3",
+        "subject": "SUB170507",
+        "subname": "Subject 3",
+        "subcode": null,
+        "klass": "KLA170507",
+        "kname": "Form A2",
+        "credits": 1
+    }, {
+        "id": 405,
+        "teacher": "STA170517",
+        "names": "Teacher 4",
+        "subject": "SUB170531",
+        "subname": "Subject 4",
+        "subcode": null,
+        "klass": "KLA170507",
+        "kname": "Form A2",
+        "credits": 1
+    }, {
+        "id": 406,
+        "teacher": "STA170540",
+        "names": "Teacher 5",
+        "subject": "SUB170510",
+        "subname": "Subject 5",
+        "subcode": null,
+        "klass": "KLA170507",
+        "kname": "Form A2",
+        "credits": 1
+    }, {
+        "id": 407,
+        "teacher": "STA170518",
+        "names": "Teacher 6",
+        "subject": "SUB170536",
+        "subname": "Subject 6",
+        "subcode": null,
+        "klass": "KLA170507",
+        "kname": "Form A2",
+        "credits": 1
+    }, {
+        "id": 408,
+        "teacher": "STA170526",
+        "names": "Teacher 7",
+        "subject": "SUB170512",
+        "subname": "Subject 7",
+        "subcode": null,
+        "klass": "KLA170507",
+        "kname": "Form A2",
+        "credits": 1
+    }, {
+        "id": 409,
+        "teacher": "STA170526",
+        "names": "Teacher 7",
+        "subject": "SUB170535",
+        "subname": "Subject 8",
+        "subcode": null,
+        "klass": "KLA170507",
+        "kname": "Form A2",
+        "credits": 1
+    }, {
+        "id": 410,
+        "teacher": "STA170509",
+        "names": "Teacher 2",
+        "subject": "SUB170534",
+        "subname": "Subject 2",
+        "subcode": null,
+        "klass": "KLA170508",
+        "kname": "Form A3",
+        "credits": 1
+    }, {
+        "id": 411,
+        "teacher": "STA170533",
+        "names": "Teacher 3",
+        "subject": "SUB170507",
+        "subname": "Subject 3",
+        "subcode": null,
+        "klass": "KLA170508",
+        "kname": "Form A3",
+        "credits": 1
+    }, {
+        "id": 412,
+        "teacher": "STA170517",
+        "names": "Teacher 4",
+        "subject": "SUB170531",
+        "subname": "Subject 4",
+        "subcode": null,
+        "klass": "KLA170508",
+        "kname": "Form A3",
+        "credits": 1
+    }, {
+        "id": 413,
+        "teacher": "STA170540",
+        "names": "Teacher 5",
+        "subject": "SUB170510",
+        "subname": "Subject 5",
+        "subcode": null,
+        "klass": "KLA170508",
+        "kname": "Form A3",
+        "credits": 1
+    }, {
+        "id": 414,
+        "teacher": "STA170518",
+        "names": "Teacher 6",
+        "subject": "SUB170536",
+        "subname": "Subject 6",
+        "subcode": null,
+        "klass": "KLA170508",
+        "kname": "Form A3",
+        "credits": 1
+    }, {
+        "id": 415,
+        "teacher": "STA170526",
+        "names": "Teacher 7",
+        "subject": "SUB170512",
+        "subname": "Subject 7",
+        "subcode": null,
+        "klass": "KLA170508",
+        "kname": "Form A3",
+        "credits": 1
+    }, {
+        "id": 416,
+        "teacher": "STA170526",
+        "names": "Teacher 7",
+        "subject": "SUB170535",
+        "subname": "Subject 8",
+        "subcode": null,
+        "klass": "KLA170508",
+        "kname": "Form A3",
+        "credits": 1
+    }, {
+        "id": 417,
+        "teacher": "STA170509",
+        "names": "Teacher 2",
+        "subject": "SUB170534",
+        "subname": "Subject 2",
+        "subcode": null,
+        "klass": "KLA170509",
+        "kname": "Form A4",
+        "credits": 1
+    }, {
+        "id": 418,
+        "teacher": "STA170533",
+        "names": "Teacher 3",
+        "subject": "SUB170507",
+        "subname": "Subject 3",
+        "subcode": null,
+        "klass": "KLA170509",
+        "kname": "Form A4",
+        "credits": 1
+    }, {
+        "id": 419,
+        "teacher": "STA170517",
+        "names": "Teacher 4",
+        "subject": "SUB170531",
+        "subname": "Subject 4",
+        "subcode": null,
+        "klass": "KLA170509",
+        "kname": "Form A4",
+        "credits": 1
+    }, {
+        "id": 420,
+        "teacher": "STA170540",
+        "names": "Teacher 5",
+        "subject": "SUB170510",
+        "subname": "Subject 5",
+        "subcode": null,
+        "klass": "KLA170509",
+        "kname": "Form A4",
+        "credits": 1
+    }, {
+        "id": 421,
+        "teacher": "STA170518",
+        "names": "Teacher 6",
+        "subject": "SUB170536",
+        "subname": "Subject 6",
+        "subcode": null,
+        "klass": "KLA170509",
+        "kname": "Form A4",
+        "credits": 1
+    }, {
+        "id": 422,
+        "teacher": "STA170526",
+        "names": "Teacher 7",
+        "subject": "SUB170512",
+        "subname": "Subject 7",
+        "subcode": null,
+        "klass": "KLA170509",
+        "kname": "Form A4",
+        "credits": 1
+    }, {
+        "id": 423,
+        "teacher": "STA170526",
+        "names": "Teacher 7",
+        "subject": "SUB170535",
+        "subname": "Subject 8",
+        "subcode": null,
+        "klass": "KLA170509",
+        "kname": "Form A4",
+        "credits": 1
+    }, {
+        "id": 424,
+        "teacher": "STA170515",
+        "names": "Teacher 8",
+        "subject": "SUB170506",
+        "subname": "Subject 9",
+        "subcode": null,
+        "klass": "KLA170511",
+        "kname": "Form B2",
+        "credits": 1
+    }, {
+        "id": 425,
+        "teacher": "STA170532",
+        "names": "Teacher 9",
+        "subject": "SUB170523",
+        "subname": "Subject 10",
+        "subcode": null,
+        "klass": "KLA170511",
+        "kname": "Form B2",
+        "credits": 1
+    }, {
+        "id": 426,
+        "teacher": "STA170531",
+        "names": "Teacher 10",
+        "subject": "SUB170507",
+        "subname": "Subject 3",
+        "subcode": null,
+        "klass": "KLA170511",
+        "kname": "Form B2",
+        "credits": 1
+    }, {
+        "id": 427,
+        "teacher": "STA170508",
+        "names": "Teacher 11",
+        "subject": "SUB170508",
+        "subname": "Subject 11",
+        "subcode": null,
+        "klass": "KLA170511",
+        "kname": "Form B2",
+        "credits": 1
+    }, {
+        "id": 428,
+        "teacher": "STA170527",
+        "names": "Teacher 12",
+        "subject": "SUB170509",
+        "subname": "Subject 12",
+        "subcode": null,
+        "klass": "KLA170511",
+        "kname": "Form B2",
+        "credits": 1
+    }, {
+        "id": 429,
+        "teacher": "STA170524",
+        "names": "Teacher 13",
+        "subject": "SUB170531",
+        "subname": "Subject 4",
+        "subcode": null,
+        "klass": "KLA170511",
+        "kname": "Form B2",
+        "credits": 1
+    }, {
+        "id": 430,
+        "teacher": "STA170519",
+        "names": "Teacher 14",
+        "subject": "SUB170510",
+        "subname": "Subject 5",
+        "subcode": null,
+        "klass": "KLA170511",
+        "kname": "Form B2",
+        "credits": 1
+    }, {
+        "id": 431,
+        "teacher": "STA170506",
+        "names": "Teacher 15",
+        "subject": "SUB170511",
+        "subname": "Subject 13",
+        "subcode": null,
+        "klass": "KLA170511",
+        "kname": "Form B2",
+        "credits": 1
+    }, {
+        "id": 432,
+        "teacher": "STA170534",
+        "names": "Teacher 16",
+        "subject": "SUB170512",
+        "subname": "Subject 7",
+        "subcode": null,
+        "klass": "KLA170511",
+        "kname": "Form B2",
+        "credits": 1
+    }, {
+        "id": 433,
+        "teacher": "STA170539",
+        "names": "Teacher 17",
+        "subject": "SUB170513",
+        "subname": "Subject 14",
+        "subcode": null,
+        "klass": "KLA170511",
+        "kname": "Form B2",
+        "credits": 1
+    }, {
+        "id": 434,
+        "teacher": "STA170515",
+        "names": "Teacher 8",
+        "subject": "SUB170506",
+        "subname": "Subject 9",
+        "subcode": null,
+        "klass": "KLA170512",
+        "kname": "Form B3",
+        "credits": 1
+    }, {
+        "id": 435,
+        "teacher": "STA170532",
+        "names": "Teacher 9",
+        "subject": "SUB170523",
+        "subname": "Subject 10",
+        "subcode": null,
+        "klass": "KLA170512",
+        "kname": "Form B3",
+        "credits": 1
+    }, {
+        "id": 436,
+        "teacher": "STA170531",
+        "names": "Teacher 10",
+        "subject": "SUB170507",
+        "subname": "Subject 3",
+        "subcode": null,
+        "klass": "KLA170512",
+        "kname": "Form B3",
+        "credits": 1
+    }, {
+        "id": 437,
+        "teacher": "STA170508",
+        "names": "Teacher 11",
+        "subject": "SUB170508",
+        "subname": "Subject 11",
+        "subcode": null,
+        "klass": "KLA170512",
+        "kname": "Form B3",
+        "credits": 1
+    }, {
+        "id": 438,
+        "teacher": "STA170527",
+        "names": "Teacher 12",
+        "subject": "SUB170509",
+        "subname": "Subject 12",
+        "subcode": null,
+        "klass": "KLA170512",
+        "kname": "Form B3",
+        "credits": 1
+    }, {
+        "id": 439,
+        "teacher": "STA170524",
+        "names": "Teacher 13",
+        "subject": "SUB170531",
+        "subname": "Subject 4",
+        "subcode": null,
+        "klass": "KLA170512",
+        "kname": "Form B3",
+        "credits": 1
+    }, {
+        "id": 440,
+        "teacher": "STA170519",
+        "names": "Teacher 14",
+        "subject": "SUB170510",
+        "subname": "Subject 5",
+        "subcode": null,
+        "klass": "KLA170512",
+        "kname": "Form B3",
+        "credits": 1
+    }, {
+        "id": 441,
+        "teacher": "STA170506",
+        "names": "Teacher 15",
+        "subject": "SUB170511",
+        "subname": "Subject 13",
+        "subcode": null,
+        "klass": "KLA170512",
+        "kname": "Form B3",
+        "credits": 1
+    }, {
+        "id": 442,
+        "teacher": "STA170534",
+        "names": "Teacher 16",
+        "subject": "SUB170512",
+        "subname": "Subject 7",
+        "subcode": null,
+        "klass": "KLA170512",
+        "kname": "Form B3",
+        "credits": 1
+    }, {
+        "id": 443,
+        "teacher": "STA170539",
+        "names": "Teacher 17",
+        "subject": "SUB170513",
+        "subname": "Subject 14",
+        "subcode": null,
+        "klass": "KLA170512",
+        "kname": "Form B3",
+        "credits": 1
+    }, {
+        "id": 444,
+        "teacher": "STA170515",
+        "names": "Teacher 8",
+        "subject": "SUB170506",
+        "subname": "Subject 9",
+        "subcode": null,
+        "klass": "KLA170523",
+        "kname": "Form B4",
+        "credits": 1
+    }, {
+        "id": 445,
+        "teacher": "STA170532",
+        "names": "Teacher 9",
+        "subject": "SUB170523",
+        "subname": "Subject 10",
+        "subcode": null,
+        "klass": "KLA170523",
+        "kname": "Form B4",
+        "credits": 1
+    }, {
+        "id": 446,
+        "teacher": "STA170531",
+        "names": "Teacher 10",
+        "subject": "SUB170507",
+        "subname": "Subject 3",
+        "subcode": null,
+        "klass": "KLA170523",
+        "kname": "Form B4",
+        "credits": 1
+    }, {
+        "id": 447,
+        "teacher": "STA170508",
+        "names": "Teacher 11",
+        "subject": "SUB170508",
+        "subname": "Subject 11",
+        "subcode": null,
+        "klass": "KLA170523",
+        "kname": "Form B4",
+        "credits": 1
+    }, {
+        "id": 448,
+        "teacher": "STA170527",
+        "names": "Teacher 12",
+        "subject": "SUB170509",
+        "subname": "Subject 12",
+        "subcode": null,
+        "klass": "KLA170523",
+        "kname": "Form B4",
+        "credits": 1
+    }, {
+        "id": 449,
+        "teacher": "STA170524",
+        "names": "Teacher 13",
+        "subject": "SUB170531",
+        "subname": "Subject 4",
+        "subcode": null,
+        "klass": "KLA170523",
+        "kname": "Form B4",
+        "credits": 1
+    }, {
+        "id": 450,
+        "teacher": "STA170519",
+        "names": "Teacher 14",
+        "subject": "SUB170510",
+        "subname": "Subject 5",
+        "subcode": null,
+        "klass": "KLA170523",
+        "kname": "Form B4",
+        "credits": 1
+    }, {
+        "id": 451,
+        "teacher": "STA170506",
+        "names": "Teacher 15",
+        "subject": "SUB170511",
+        "subname": "Subject 13",
+        "subcode": null,
+        "klass": "KLA170523",
+        "kname": "Form B4",
+        "credits": 1
+    }, {
+        "id": 452,
+        "teacher": "STA170534",
+        "names": "Teacher 16",
+        "subject": "SUB170512",
+        "subname": "Subject 7",
+        "subcode": null,
+        "klass": "KLA170523",
+        "kname": "Form B4",
+        "credits": 1
+    }, {
+        "id": 453,
+        "teacher": "STA170539",
+        "names": "Teacher 17",
+        "subject": "SUB170513",
+        "subname": "Subject 14",
+        "subcode": null,
+        "klass": "KLA170523",
+        "kname": "Form B4",
+        "credits": 1
+    }, {
+        "id": 454,
+        "teacher": "STA170515",
+        "names": "Teacher 8",
+        "subject": "SUB170506",
+        "subname": "Subject 9",
+        "subcode": null,
+        "klass": "KLA170527",
+        "kname": "Form C1",
+        "credits": 1
+    }, {
+        "id": 456,
+        "teacher": "STA170531",
+        "names": "Teacher 10",
+        "subject": "SUB170507",
+        "subname": "Subject 3",
+        "subcode": null,
+        "klass": "KLA170527",
+        "kname": "Form C1",
+        "credits": 1
+    }, {
+        "id": 457,
+        "teacher": "STA170508",
+        "names": "Teacher 11",
+        "subject": "SUB170508",
+        "subname": "Subject 11",
+        "subcode": null,
+        "klass": "KLA170527",
+        "kname": "Form C1",
+        "credits": 1
+    }, {
+        "id": 458,
+        "teacher": "STA170527",
+        "names": "Teacher 12",
+        "subject": "SUB170509",
+        "subname": "Subject 12",
+        "subcode": null,
+        "klass": "KLA170527",
+        "kname": "Form C1",
+        "credits": 1
+    }, {
+        "id": 460,
+        "teacher": "STA170519",
+        "names": "Teacher 14",
+        "subject": "SUB170510",
+        "subname": "Subject 5",
+        "subcode": null,
+        "klass": "KLA170527",
+        "kname": "Form C1",
+        "credits": 1
+    }, {
+        "id": 461,
+        "teacher": "STA170506",
+        "names": "Teacher 15",
+        "subject": "SUB170511",
+        "subname": "Subject 13",
+        "subcode": null,
+        "klass": "KLA170527",
+        "kname": "Form C1",
+        "credits": 1
+    }, {
+        "id": 462,
+        "teacher": "STA170534",
+        "names": "Teacher 16",
+        "subject": "SUB170512",
+        "subname": "Subject 7",
+        "subcode": null,
+        "klass": "KLA170527",
+        "kname": "Form C1",
+        "credits": 1
+    }, {
+        "id": 463,
+        "teacher": "STA170539",
+        "names": "Teacher 17",
+        "subject": "SUB170513",
+        "subname": "Subject 14",
+        "subcode": null,
+        "klass": "KLA170527",
+        "kname": "Form C1",
+        "credits": 1
+    }, {
+        "id": 464,
+        "teacher": "STA170515",
+        "names": "Teacher 8",
+        "subject": "SUB170506",
+        "subname": "Subject 9",
+        "subcode": null,
+        "klass": "KLA170528",
+        "kname": "Form C3",
+        "credits": 1
+    }, {
+        "id": 466,
+        "teacher": "STA170531",
+        "names": "Teacher 10",
+        "subject": "SUB170507",
+        "subname": "Subject 3",
+        "subcode": null,
+        "klass": "KLA170528",
+        "kname": "Form C3",
+        "credits": 1
+    }, {
+        "id": 467,
+        "teacher": "STA170508",
+        "names": "Teacher 11",
+        "subject": "SUB170508",
+        "subname": "Subject 11",
+        "subcode": null,
+        "klass": "KLA170528",
+        "kname": "Form C3",
+        "credits": 1
+    }, {
+        "id": 468,
+        "teacher": "STA170527",
+        "names": "Teacher 12",
+        "subject": "SUB170509",
+        "subname": "Subject 12",
+        "subcode": null,
+        "klass": "KLA170528",
+        "kname": "Form C3",
+        "credits": 1
+    }, {
+        "id": 470,
+        "teacher": "STA170519",
+        "names": "Teacher 14",
+        "subject": "SUB170510",
+        "subname": "Subject 5",
+        "subcode": null,
+        "klass": "KLA170528",
+        "kname": "Form C3",
+        "credits": 1
+    }, {
+        "id": 471,
+        "teacher": "STA170506",
+        "names": "Teacher 15",
+        "subject": "SUB170511",
+        "subname": "Subject 13",
+        "subcode": null,
+        "klass": "KLA170528",
+        "kname": "Form C3",
+        "credits": 1
+    }, {
+        "id": 472,
+        "teacher": "STA170534",
+        "names": "Teacher 16",
+        "subject": "SUB170512",
+        "subname": "Subject 7",
+        "subcode": null,
+        "klass": "KLA170528",
+        "kname": "Form C3",
+        "credits": 1
+    }, {
+        "id": 473,
+        "teacher": "STA170539",
+        "names": "Teacher 17",
+        "subject": "SUB170513",
+        "subname": "Subject 14",
+        "subcode": null,
+        "klass": "KLA170528",
+        "kname": "Form C3",
+        "credits": 1
+    }, {
+        "id": 474,
+        "teacher": "STA170515",
+        "names": "Teacher 8",
+        "subject": "SUB170506",
+        "subname": "Subject 9",
+        "subcode": null,
+        "klass": "KLA170514",
+        "kname": "Form C2",
+        "credits": 1
+    }, {
+        "id": 476,
+        "teacher": "STA170531",
+        "names": "Teacher 10",
+        "subject": "SUB170507",
+        "subname": "Subject 3",
+        "subcode": null,
+        "klass": "KLA170514",
+        "kname": "Form C2",
+        "credits": 1
+    }, {
+        "id": 477,
+        "teacher": "STA170508",
+        "names": "Teacher 11",
+        "subject": "SUB170508",
+        "subname": "Subject 11",
+        "subcode": null,
+        "klass": "KLA170514",
+        "kname": "Form C2",
+        "credits": 1
+    }, {
+        "id": 478,
+        "teacher": "STA170527",
+        "names": "Teacher 12",
+        "subject": "SUB170509",
+        "subname": "Subject 12",
+        "subcode": null,
+        "klass": "KLA170514",
+        "kname": "Form C2",
+        "credits": 1
+    }, {
+        "id": 480,
+        "teacher": "STA170519",
+        "names": "Teacher 14",
+        "subject": "SUB170510",
+        "subname": "Subject 5",
+        "subcode": null,
+        "klass": "KLA170514",
+        "kname": "Form C2",
+        "credits": 1
+    }, {
+        "id": 481,
+        "teacher": "STA170506",
+        "names": "Teacher 15",
+        "subject": "SUB170511",
+        "subname": "Subject 13",
+        "subcode": null,
+        "klass": "KLA170514",
+        "kname": "Form C2",
+        "credits": 1
+    }, {
+        "id": 482,
+        "teacher": "STA170534",
+        "names": "Teacher 16",
+        "subject": "SUB170512",
+        "subname": "Subject 7",
+        "subcode": null,
+        "klass": "KLA170514",
+        "kname": "Form C2",
+        "credits": 1
+    }, {
+        "id": 483,
+        "teacher": "STA170539",
+        "names": "Teacher 17",
+        "subject": "SUB170513",
+        "subname": "Subject 14",
+        "subcode": null,
+        "klass": "KLA170514",
+        "kname": "Form C2",
+        "credits": 1
+    }, {
+        "id": 484,
+        "teacher": "STA170511",
+        "names": "Teacher 18",
+        "subject": "SUB170524",
+        "subname": "Subject 15",
+        "subcode": null,
+        "klass": "KLA170516",
+        "kname": "Form D2",
+        "credits": 1
+    }, {
+        "id": 485,
+        "teacher": "STA170532",
+        "names": "Teacher 9",
+        "subject": "SUB170533",
+        "subname": "Subject 17",
+        "subcode": null,
+        "klass": "KLA170516",
+        "kname": "Form D2",
+        "credits": 1
+    }, {
+        "id": 486,
+        "teacher": "STA170516",
+        "names": "Teacher 20",
+        "subject": "SUB170517",
+        "subname": "Subject 18",
+        "subcode": null,
+        "klass": "KLA170516",
+        "kname": "Form D2",
+        "credits": 1
+    }, {
+        "id": 487,
+        "teacher": "STA170528",
+        "names": "Teacher 21",
+        "subject": "SUB170518",
+        "subname": "Subject 19",
+        "subcode": null,
+        "klass": "KLA170516",
+        "kname": "Form D2",
+        "credits": 1
+    }, {
+        "id": 488,
+        "teacher": "STA170534",
+        "names": "Teacher 16",
+        "subject": "SUB170519",
+        "subname": "Subject 20",
+        "subcode": null,
+        "klass": "KLA170516",
+        "kname": "Form D2",
+        "credits": 1
+    }, {
+        "id": 489,
+        "teacher": "STA170519",
+        "names": "Teacher 14",
+        "subject": "SUB170520",
+        "subname": "Subject 21",
+        "subcode": null,
+        "klass": "KLA170516",
+        "kname": "Form D2",
+        "credits": 1
+    }, {
+        "id": 490,
+        "teacher": "STA170518",
+        "names": "Teacher 6",
+        "subject": "SUB170521",
+        "subname": "Subject 22",
+        "subcode": null,
+        "klass": "KLA170516",
+        "kname": "Form D2",
+        "credits": 1
+    }, {
+        "id": 491,
+        "teacher": "STA170510",
+        "names": "Teacher 22",
+        "subject": "SUB170522",
+        "subname": "Subject 23",
+        "subcode": null,
+        "klass": "KLA170516",
+        "kname": "Form D2",
+        "credits": 1
+    }, {
+        "id": 492,
+        "teacher": "STA170511",
+        "names": "Teacher 18",
+        "subject": "SUB170524",
+        "subname": "Subject 15",
+        "subcode": null,
+        "klass": "KLA170519",
+        "kname": "Form E1",
+        "credits": 1
+    }, {
+        "id": 493,
+        "teacher": "STA170532",
+        "names": "Teacher 9",
+        "subject": "SUB170533",
+        "subname": "Subject 17",
+        "subcode": null,
+        "klass": "KLA170519",
+        "kname": "Form E1",
+        "credits": 1
+    }, {
+        "id": 494,
+        "teacher": "STA170516",
+        "names": "Teacher 20",
+        "subject": "SUB170517",
+        "subname": "Subject 18",
+        "subcode": null,
+        "klass": "KLA170519",
+        "kname": "Form E1",
+        "credits": 1
+    }, {
+        "id": 495,
+        "teacher": "STA170528",
+        "names": "Teacher 21",
+        "subject": "SUB170518",
+        "subname": "Subject 19",
+        "subcode": null,
+        "klass": "KLA170519",
+        "kname": "Form E1",
+        "credits": 1
+    }, {
+        "id": 496,
+        "teacher": "STA170534",
+        "names": "Teacher 16",
+        "subject": "SUB170519",
+        "subname": "Subject 20",
+        "subcode": null,
+        "klass": "KLA170519",
+        "kname": "Form E1",
+        "credits": 1
+    }, {
+        "id": 497,
+        "teacher": "STA170519",
+        "names": "Teacher 14",
+        "subject": "SUB170520",
+        "subname": "Subject 21",
+        "subcode": null,
+        "klass": "KLA170519",
+        "kname": "Form E1",
+        "credits": 1
+    }, {
+        "id": 498,
+        "teacher": "STA170518",
+        "names": "Teacher 6",
+        "subject": "SUB170521",
+        "subname": "Subject 22",
+        "subcode": null,
+        "klass": "KLA170519",
+        "kname": "Form E1",
+        "credits": 1
+    }, {
+        "id": 499,
+        "teacher": "STA170510",
+        "names": "Teacher 22",
+        "subject": "SUB170522",
+        "subname": "Subject 23",
+        "subcode": null,
+        "klass": "KLA170519",
+        "kname": "Form E1",
+        "credits": 1
+    }, {
+        "id": 500,
+        "teacher": "STA170511",
+        "names": "Teacher 18",
+        "subject": "SUB170524",
+        "subname": "Subject 15",
+        "subcode": null,
+        "klass": "KLA170520",
+        "kname": "Form E2",
+        "credits": 1
+    }, {
+        "id": 508,
+        "teacher": "STA170523",
+        "names": "Teacher 19",
+        "subject": "SUB170515",
+        "subname": "Subject 16",
+        "subcode": null,
+        "klass": "KLA170520",
+        "kname": "Form E2",
+        "credits": 1
+    }, {
+        "id": 502,
+        "teacher": "STA170516",
+        "names": "Teacher 20",
+        "subject": "SUB170517",
+        "subname": "Subject 18",
+        "subcode": null,
+        "klass": "KLA170520",
+        "kname": "Form E2",
+        "credits": 1
+    }, {
+        "id": 504,
+        "teacher": "STA170534",
+        "names": "Teacher 16",
+        "subject": "SUB170519",
+        "subname": "Subject 20",
+        "subcode": null,
+        "klass": "KLA170520",
+        "kname": "Form E2",
+        "credits": 1
+    }, {
+        "id": 505,
+        "teacher": "STA170519",
+        "names": "Teacher 14",
+        "subject": "SUB170520",
+        "subname": "Subject 21",
+        "subcode": null,
+        "klass": "KLA170520",
+        "kname": "Form E2",
+        "credits": 1
+    }, {
+        "id": 506,
+        "teacher": "STA170518",
+        "names": "Teacher 6",
+        "subject": "SUB170521",
+        "subname": "Subject 22",
+        "subcode": null,
+        "klass": "KLA170520",
+        "kname": "Form E2",
+        "credits": 1
+    }, {
+        "id": 507,
+        "teacher": "STA170510",
+        "names": "Teacher 22",
+        "subject": "SUB170522",
+        "subname": "Subject 23",
+        "subcode": null,
+        "klass": "KLA170520",
+        "kname": "Form E2",
+        "credits": 1
+    }, {
+        "id": 509,
+        "teacher": "STA170523",
+        "names": "Teacher 19",
+        "subject": "SUB170515",
+        "subname": "Subject 16",
+        "subcode": null,
+        "klass": "KLA170515",
+        "kname": "Form D1",
+        "credits": 1
+    }, {
+        "id": 513,
+        "teacher": "STA170541",
+        "names": "Teacher 23",
+        "subject": "SUB170537",
+        "subname": "Subject 24",
+        "subcode": null,
+        "klass": "KLA170506",
+        "kname": "Form A1",
+        "credits": 1
+    }, {
+        "id": 514,
+        "teacher": "STA170541",
+        "names": "Teacher 23",
+        "subject": "SUB170537",
+        "subname": "Subject 24",
+        "subcode": null,
+        "klass": "KLA170508",
+        "kname": "Form A3",
+        "credits": 12
+    }, {
+        "id": 515,
+        "teacher": "STA170541",
+        "names": "Teacher 23",
+        "subject": "SUB170539",
+        "subname": "Subject 25",
+        "subcode": null,
+        "klass": "KLA170516",
+        "kname": "Form D2",
+        "credits": 7
+    }
+]
